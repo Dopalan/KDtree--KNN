@@ -3,7 +3,6 @@
 ## 1. Giới thiệu
 
 Đây là bài tập lớn môn CO2003 – Cấu trúc dữ liệu và giải thuật, yêu cầu sinh viên cải tiến giải thuật kNN bằng cách sử dụng cấu trúc dữ liệu kD-Tree.  
-Bài tập này giúp sinh viên ôn lại và áp dụng thành thạo lập trình hướng đối tượng, xây dựng các cấu trúc dữ liệu cây, cũng như các thuật toán sắp xếp và tìm kiếm.
 
 ## 2. Yêu cầu đề bài
 
